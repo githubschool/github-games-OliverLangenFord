@@ -1,0 +1,5 @@
+* @team-name
+*.js @front-end-team
+/tests/ @qa #includes all subdirs
+/tests2/* @qa2 # no nested files
+*.rb @holger
